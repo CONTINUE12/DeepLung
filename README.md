@@ -2,7 +2,7 @@
   
 # Illustration
 
-The project is based on wentaozhu's work to upgrade and modify the version, and add some additional visualization functions.The original version is applicable to python 2.7 and pytorch 0.1 from https://github.com/wentaozhu/DeepLung, and the Paper link is https://arxiv.org/pdf/1801.09555.pdf (DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification." IEEE WACV, 2018.), and  https://arxiv.org/pdf/1805.05373.pdf (Deepem: Deep 3d convnets with em for weakly supervised pulmonary nodule detection, MICCAI, 2018.) Please cite this paper if you find this project helpful for your research.
+The project is based on wentaozhu's work to upgrade and modify the version, and add some additional visualization functions.The original version is applicable to python 2.7 and pytorch 0.1 from https://github.com/wentaozhu/DeepLung, 
 # Dependencie
 
 python 3.7, CUDA 10.1,SimpleITK 1.2.2, numpy 1.17, matplotlib 3.1.1, scikit-image (0.21), scipy (0.3.1), pyparsing (2.4.2), pytorch (1.0) (anaconda is recommended) other packages could be the latest version.
